@@ -25,6 +25,10 @@
 - 📊 **Data Science Practice Work**  
   Basic data analysis and Python practice projects.
 
+- 🚀 **AgriVoice Assistant (Live Preview)**  
+  A voice-enabled assistant app for farmers.  
+  🔗 [View Live Demo](https://preview.builtwithrocket.new/agrivoice-assistant-s3oic10)
+
 -### 🎯 Career Goals
 - Secure a software / data-related role through campus placements  
 - Gain real-world experience via internships  
