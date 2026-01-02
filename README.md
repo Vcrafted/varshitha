@@ -24,6 +24,7 @@
 
 - 📊 **Data Science Practice Work**  
   Basic data analysis and Python practice projects.
+  🔗 [Demo](file:///C:/Users/aruna/Desktop/online_registration/index.html)
 
 - 🚀 **AgriVoice Assistant (Live Preview)**  
   A voice-enabled assistant app for farmers.  
